@@ -1,0 +1,9 @@
+<mj-wrapper background-color="whitesmoke" padding="0">
+  <mj-hero background-color="whitesmoke">
+    <mj-image
+      alt="Placeholder"
+      width="175px"
+      src="https://logoipsum.com/logo/logo-14.svg"
+    />
+  </mj-hero>
+</mj-wrapper>
