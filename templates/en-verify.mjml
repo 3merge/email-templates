@@ -1,7 +1,7 @@
 <mjml>
-  <mj-include path="__classlist.mjml" />
+  <mj-include path="templates/__classlist.mjml" />
   <mj-body mj-class="background">
-    <mj-include path="__en-header.mjml" />
+    <mj-include path="templates/__en-header.mjml" />
     <mj-wrapper mj-class="wrapper">
       <mj-section mj-class="section">
         <mj-column mj-class="main">
@@ -35,6 +35,6 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-include path="__en-footer.mjml" />
+    <mj-include path="templates/__en-footer.mjml" />
   </mj-body>
 </mjml>
